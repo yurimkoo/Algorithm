@@ -3,3 +3,4 @@ def solution(participant, completion):
         if par != com:
             return par
     return participant[-1]
+    
