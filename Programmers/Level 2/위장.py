@@ -12,3 +12,4 @@ def solution(clothes):
         answer *= (len(val)+1)
     
     return answer - 1
+    
