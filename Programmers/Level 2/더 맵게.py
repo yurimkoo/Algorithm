@@ -10,3 +10,4 @@ def solution(scoville, k):
         else:
             return -1
     return i
+    
