@@ -26,3 +26,4 @@ def solution(priorities, location):
     for i, p in print_list:
         if i == location:
             return print_list.index((i, p))+1
+            
