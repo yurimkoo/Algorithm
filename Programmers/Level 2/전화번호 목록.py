@@ -8,3 +8,4 @@ def solution(phone_book):
         return False
     else:
         return True
+        
