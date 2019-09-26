@@ -17,3 +17,4 @@ def solution(answers):
         if supos[i] == max_score:
             answer.append(i+1)
     return sorted(answer)
+    
